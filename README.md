@@ -2,6 +2,8 @@
 changes default button prompt to playstation style in atelier yumia
 
 # installation
-download .fdata and .rdb file from [release](https://github.com/mlleemiles/atelier-yumia-playstation-button/releases/tag/main) page
+download .fdata .rdb and .rdx file of your preferred style:
+
+- [PS5](https://github.com/mlleemiles/atelier-yumia-playstation-button/releases/tag/prospero)
 
 replace files in `.\Atelier Yumia\Motor` folder
