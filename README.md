@@ -2,7 +2,7 @@
 changes default button prompt to playstation style in atelier yumia
 
 ## Requirements:
-1. [yumia_mod_insert_into_rdb.exe](https://github.com/eArmada8/yumia_fdata_tools/releases/download/v1.0.3/yumia_mod_insert_into_rdb.exe)
+1. [yumia_mod_insert_into_rdb.exe](https://github.com/eArmada8/yumia_fdata_tools/releases/download/v1.0.5/yumia_mod_insert_into_rdb.exe)
 
 # installation
 download .fdata .rdb and .rdx file of your preferred style:
